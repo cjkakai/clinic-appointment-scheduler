@@ -6,6 +6,8 @@ A simple command-line application to manage a clinic's appointments. Users can:
 - View patients and their ages
 - List all scheduled appointments
 - Schedule new appointments interactively
+- Update appointment date
+
 
 The project uses **Python**, **SQLAlchemy**, and **SQLite**, with fake data generated via **Faker**.
 
